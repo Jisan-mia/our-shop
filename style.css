@@ -37,9 +37,11 @@
     left: 265px;
     top:-200px;
 }
-.see-all{
-    color: orange
+#see-all{
+    color: orange; 
+    text-decoration: none;
 }
+
 .col-md-6 .last-img{
     width: 500px;;
 }
@@ -67,6 +69,14 @@
     margin-left: 16px;
     padding-right: 112px;
     padding-bottom: 30px;
+}
+#subscribe{
+    height: 250px;
+    background-color: #b2bec3;
+
+}
+#subscribe h6{
+    color: gray
 }
 footer{
     text-align: center;
